@@ -1,4 +1,4 @@
-import react from "react";
+//import react from "react";
 import Directory from "../../components/directory/directory.component";
 import './homepage.style.scss';
 
